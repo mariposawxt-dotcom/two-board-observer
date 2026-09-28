@@ -1,0 +1,4 @@
+interface:
+  display_name: "两个榜单观察"
+  short_description: "先确认近一周或近三日，按 Star 增速与点赞整理两个真实榜单"
+  default_prompt: "使用 $two-board-observer，帮我观察 GitHub Trending 和 Product Hunt 两个榜单。"
